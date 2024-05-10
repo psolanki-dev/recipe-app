@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# recipe-app
+
+# Recipe-app
 ==========================
 # Full-stack-recipe-app
 
